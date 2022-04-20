@@ -14,7 +14,7 @@
 - 📫 给我发邮件:  pangchun_mail@qq.com。
 
 
-<p align = "left">
+<p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=pangchun&count_private=true&show_icons=true&theme=light&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pangchun&theme=light">
 </p>
