@@ -30,12 +30,12 @@
       </td>
       <td width="25%" align="center">
        <br>
-        <a href="https://docbase.inadios.cn/#/">文档中心</a>
+        <a href="#">暂时没有</a>
        <br>
       </td>
       <td width="25%" align="center">
        <br>
-        <a href="https://docbase.inadios.cn/#/">文档中心</a>
+        <a href="#">暂时没有</a>
        <br>
       </td>
     </tr>
