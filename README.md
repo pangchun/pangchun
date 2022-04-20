@@ -1,6 +1,6 @@
 # Halo! I am pangchun! 👋
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
 
 - 🔭 大家好，我是 pangchun。
 - 🤔 非常欢迎你来访问我的 Github。
@@ -12,6 +12,7 @@
 - 👯 希望找到一群志同道合的朋友。
 - 🤔 也许我需要你的帮助。
 - 📫 给我发邮件:  pangchun_mail@qq.com。
+
 
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=pangchun&count_private=true&show_icons=true&theme=light&line_height=27">
