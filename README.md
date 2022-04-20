@@ -15,6 +15,6 @@
 
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pangchun&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pangchun&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pangchun&count_private=true&show_icons=true&theme=tokyonight" height="100%">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pangchun&theme=tokyonight" height="100%">
 </p>
