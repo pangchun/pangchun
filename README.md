@@ -1,5 +1,7 @@
 # Halo! I am pangchun! 👋
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
+
 - 🔭 大家好，我是 pangchun。
 - 🤔 非常欢迎你来访问我的 Github。
 - 🎓 尽管这里可能并没有你需要的项目。
@@ -10,8 +12,6 @@
 - 👯 希望找到一群志同道合的朋友。
 - 🤔 也许我需要你的帮助。
 - 📫 给我发邮件:  pangchun_mail@qq.com。
-
-![image](https://user-images.githubusercontent.com/57040675/164162168-16a85d67-575a-4847-858b-88f8320115bf.png)
 
 
 <p align = "center">
