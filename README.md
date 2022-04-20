@@ -27,6 +27,16 @@
        <a href="https://docbase.inadios.cn/#/">docbase</a>
        <br><br>
        文档中心
+      </td>
+      <td width="50%" align="center">
+       <a href="https://docbase.inadios.cn/#/">docbase</a>
+       <br><br>
+       文档中心
+      </td>
+      <td width="50%" align="center">
+       <a href="https://docbase.inadios.cn/#/">docbase</a>
+       <br><br>
+       文档中心
      </td>
     </tr>
   </tbody>
