@@ -63,7 +63,7 @@
 
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=pangchun&count_private=true&show_icons=true&theme=light">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pangchun&theme=light" width="24%">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pangchun&theme=light" width="24.5%">
 </p>
 
 <p align = "right" >
