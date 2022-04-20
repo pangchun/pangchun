@@ -13,6 +13,24 @@
 - 🤔 也许我需要你的帮助。
 - 📫 给我发邮件:  pangchun_mail@qq.com。
 
+## 推荐仓库
+
+<p align = "center">
+ <a href="https://github.com/wangscaler/myblog">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=myblog&theme=tokyonight" />
+ </a>
+ <a href="https://github.com/wangscaler/python-wenzimaoxian ">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=python-wenzimaoxian &theme=tokyonight" />
+ </a>
+ <a href="https://github.com/wangscaler/emqx-exproto-python-sdk">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=emqx-exproto-python-sdk&theme=tokyonight" />
+ </a>
+ <a href="https://github.com/wangscaler/emqx-extension-examples">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=emqx-extension-examples&theme=tokyonight" />
+ </a>
+</p>
+
+
 ## 网站信息
 
 <table>
