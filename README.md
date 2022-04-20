@@ -13,8 +13,7 @@
 - 🤔 也许我需要你的帮助。
 - 📫 给我发邮件:  pangchun_mail@qq.com。
 
-
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=wangscaler&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wangscaler&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pangchun&count_private=true&show_icons=true&theme=light&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pangchun&theme=light">
 </p>
