@@ -19,9 +19,9 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-       <a href="https://inadios.cn">blog</a>
-       <br><br><br>
-       技术博客
+       <br>
+        <a href="https://inadios.cn">技术博客</a>
+       <br>
       </td>
       <td width="25%" align="center">
        <a href="https://docbase.inadios.cn/#/">docbase</a>
