@@ -15,6 +15,6 @@
 
 
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pangchun&count_private=true&show_icons=true&theme=tokyonight" width="100%">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pangchun&count_private=true&show_icons=true&theme=tokyonight" width="100%" height="50%">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pangchun&theme=tokyonight">
 </p>
