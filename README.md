@@ -12,7 +12,7 @@
 - 👯 希望找到一群志同道合的朋友。
 - 🤔 也许我需要你的帮助。
 - 📫 给我发邮件:  pangchun_mail@qq.com。
-
+<!-- 
 ## 推荐仓库
 
 <p align = "center">
@@ -21,16 +21,15 @@
   </a>
   <a href="https://github.com/pangchun/docbase">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pangchun&repo=docbase" />
- </a>
+  </a>
   <a href="https://github.com/pangchun/excel-util">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pangchun&repo=excel-util" />
- </a>
+  </a>
   <a href="https://github.com/pangchun/chaincode-exampleo">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pangchun&repo=chaincode-example" />
  </a>
 </p>
-
-
+ -->
 ## 网站信息
 
 <table>
@@ -66,13 +65,6 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=pangchun&count_private=true&show_icons=true&theme=light">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pangchun&theme=light">
 </p>
-
-## 活跃状态
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=pangchun&theme=react-dark">
-</p>
-
 
 <p align = "right" >
   <img src = "https://komarev.com/ghpvc/?username=pangchun" >
