@@ -18,10 +18,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pangchun&theme=light">
 </p>
 
-<p align = "center" >
-  <img src = "https://komarev.com/ghpvc/?username=pangchun" >
-</p>
-
 <table>
   <tbody>
     <tr valign="top">
@@ -39,6 +35,9 @@
   </tbody>
 </table>
 
+<p align = "right" >
+  <img src = "https://komarev.com/ghpvc/?username=pangchun" >
+</p>
 
 
 
