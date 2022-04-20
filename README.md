@@ -11,6 +11,9 @@
 - 🤔 也许我需要你的帮助。
 - 📫 给我发邮件:  pangchun_mail@qq.com。
 
+![image](https://user-images.githubusercontent.com/57040675/164162168-16a85d67-575a-4847-858b-88f8320115bf.png)
+
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=wangscaler&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wangscaler&theme=tokyonight">
