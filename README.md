@@ -13,10 +13,7 @@
 - 🤔 也许我需要你的帮助。
 - 📫 给我发邮件:  pangchun_mail@qq.com。
 
-<p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pangchun&count_private=true&show_icons=true&theme=light">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pangchun&theme=light">
-</p>
+## 网站信息
 
 <table>
   <tbody>
@@ -34,6 +31,13 @@
     </tr>
   </tbody>
 </table>
+
+## 统计信息
+
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pangchun&count_private=true&show_icons=true&theme=light">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pangchun&theme=light">
+</p>
 
 <p align = "right" >
   <img src = "https://komarev.com/ghpvc/?username=pangchun" >
